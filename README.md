@@ -1,5 +1,9 @@
 # Q-SYS Room Control (Lua sample project)
 
+# Display image
+
+![Room panel](docs/images/RoomPanelMain.png)
+
 A small, working example of Q-SYS Lua scripting for a single-room AV system: power, source select, volume with a safety ceiling, mute, an auto-off timer, a TCP display driver, and a touchscreen UCI with a startup splash.
 
 Built to be read and adapted. Every script is short and commented.
